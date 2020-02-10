@@ -1,0 +1,3 @@
+[submodule "sublib_AA"]
+	path = sublib_AA
+	url = git@github.com:Ph0z0m/sublib_AA.git
